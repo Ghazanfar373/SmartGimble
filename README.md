@@ -1,2 +1,2 @@
 # SmartGimble
-SmartGimble is an opensource project to computer vision algorithms to move the camera gimble smartly as object moves. 
+SmartGimble is an open source project to implement computer vision algorithms to move the camera gimble smartly as object moves. 
