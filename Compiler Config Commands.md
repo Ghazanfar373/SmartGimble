@@ -16,3 +16,7 @@ g++ tracker.cpp -0 tracker -I/usr/local/include/opencv -L/usr/local/lib -lopencv
 ## Test opencv linked and installed
 To check cv2.so link file         > ldd cv2.so
 unlink is a similar command to rm > unlink cv2.so
+
+## Debug SerialPort on Linux 
+1. sudo apt install screen    
+2. screen /dev/ttyS3  115200
